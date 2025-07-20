@@ -162,8 +162,6 @@ awards:
 
 ## About Me
 
-I am an assistant professor of Engineering Systems and Climate Security at the Faculty of Technology, Policy and Management and the Climate Safety & Security Centre (CaSS) at the TU Delft Campus The Hague, where I lead the Human Security and Liveable Environment Flagship. I am also a Honorary Research Associate at the Environmental Change Institute, University of Oxford.
-
-My research focuses on the quantifying the systemic risks that climate change poses to infrastructure systems and the essential services they provide to society, ranging from local (e.g., household essential services) to global (e.g., staple food flows) scale analyses. I develop new modelling tools to better anticipate these risks and identify solutions to enhance resilience and reduce inequalities. In addition, I have a strong research interest in the use of high-resolution geospatial modelling to inform strategic long-term infrastructure planning decisions, in particular in the Global South context.
+I am an assistant professor of Engineering Systems and Climate Security at the Faculty of Technology, Policy and Management and the Climate Safety & Security Centre (CaSS) at the TU Delft Campus The Hague, where I lead the Human Security Flagship. I am also a Honorary Research Associate at the Environmental Change Institute, University of Oxford.
 
 I have led climate risk assessment studies in the Netherlands, Bangladesh, India, Maldives, and Jamaica, and regularly advice international organisations such as the World Bank, OECD, EBRD and UK Government on topics related to systemic risk, infrastructure planning and climate. I am a co-founder and geospatial modelling lead of the PortWatch platform (https://portwatch.imf.org/), a real-time trade activity monitor of ports and chokepoints globally.

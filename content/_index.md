@@ -34,12 +34,10 @@ sections:
           #parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 Research Interests'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        My research focuses on the quantifying the systemic risks that climate change poses to infrastructure systems and the essential services they provide to society, ranging from local (e.g., household essential services) to global (e.g., staple food flows) scale analyses. I develop new modelling tools to better anticipate these risks and identify solutions to enhance resilience and reduce inequalities. In addition, I have a strong research interest in the use of high-resolution geospatial modelling to inform strategic long-term infrastructure planning decisions, in particular in the Global South context.
 
         Please reach out to collaborate 😃
     design:
