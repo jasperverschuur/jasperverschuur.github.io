@@ -41,7 +41,7 @@ sections:
         My research focuses on the quantifying the systemic risks that climate change poses to infrastructure systems and the essential services they provide to society, ranging from local (e.g., household essential services) to global (e.g., staple food flows) scale analyses. I develop new modelling tools to better anticipate these risks and identify solutions to enhance resilience and reduce inequalities. In addition, I have a strong research interest in the use of high-resolution geospatial modelling to inform strategic long-term infrastructure planning decisions, in particular in the Global South context.
 
         Please reach out to collaborate 😃
-      font-size: 12px
+      font_size: "12"
     design:
       columns: '1'
 
