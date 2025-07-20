@@ -46,11 +46,6 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-5277-4353
 
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-
 education:
   - area: DPhil Geography and the Environmental
     institution: University of Oxford
