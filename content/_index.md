@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "6rem"
+  spacing: "4rem"
 
 sections:
   - block: resume-biography-3
@@ -22,8 +22,7 @@ sections:
         color: 'white'
         # Text color (true=light, false=dark, or remove for the dynamic theme color).
         text_color_light: false
-
-
+        
         #color: black
         #image:
           # Add your image background to `assets/media/`.
