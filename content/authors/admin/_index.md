@@ -31,20 +31,20 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:j.verschuur@tudelft.nl'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+#  - icon: brands/x
+#    url: https://twitter.com/GetResearchDev
+  #- icon: brands/instagram
+  #  url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/jasperverschuur
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/jasper-verschuur-076092104/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=WhkijeIAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-5277-4353
 
 interests:
   - Artificial Intelligence
@@ -52,37 +52,40 @@ interests:
   - Information Retrieval
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: DPhil Geography and the Environmental
+    institution: University of Oxford
+    date_start: 2019-09-01
+    date_end: 2022-12-15
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MSc Water Science, Policy and Management
+    institution: University of Oxford
+    date_start: 2018-09-01
+    date_end: 2019-08-31
     summary: |
-      GPA: 3.8/4.0
+      GPA: with distinction
+  - area: MSc Hydraulic Engineering (Coastal Engineering)
+    institution: Delft University of Technology
+    date_start: 2016-09-01
+    date_end: 2018-08-31
+    summary: |
+      GPA: 8.4/10 with distinction
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: BSc Civil Engineering
+    institution: Delft University of Technology
+    date_start: 2013-09-01
+    date_end: 2016-08-31
+    summary: |
+      GPA: 8.4/10 with distinction
+
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -183,4 +186,8 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am an assistant professor of Engineering Systems and Climate Security at the Faculty of Technology, Policy and Management and the Climate Safety & Security Centre (CaSS) at the TU Delft Campus The Hague, where I lead the Human Security and Liveable Environment Flagship. I am also a Honorary Research Associate at the Environmental Change Institute, University of Oxford.
+
+My research focuses on the quantifying the systemic risks that climate change poses to infrastructure systems and the essential services they provide to society, ranging from local (e.g., household essential services) to global (e.g., staple food flows) scale analyses. I develop new modelling tools to better anticipate these risks and identify solutions to enhance resilience and reduce inequalities. In addition, I have a strong research interest in the use of high-resolution geospatial modelling to inform strategic long-term infrastructure planning decisions, in particular in the Global South context.
+
+I have led climate risk assessment studies in the Netherlands, Bangladesh, India, Maldives, and Jamaica, and regularly advice international organisations such as the World Bank, OECD, EBRD and UK Government on topics related to systemic risk, infrastructure planning and climate. I am a co-founder and geospatial modelling lead of the PortWatch platform (https://portwatch.imf.org/), a real-time trade activity monitor of ports and chokepoints globally.
